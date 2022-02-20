@@ -1,0 +1,2 @@
+I have initialized empty git repository here.
+and created a First File
