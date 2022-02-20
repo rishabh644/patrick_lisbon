@@ -1,0 +1,2 @@
+This is my second file inside First_Project.
+I am trying things with Git.
